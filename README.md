@@ -4,6 +4,8 @@ This repo contains the code of Factor Graph Accelerator for LiDAR-Inertial Odome
 
 To run the demo, use python to run `localization_demo.py`.
 
+The contents in `hw_unit` are C/C++ code that can be synthesized into hardware. You can use high-level synthesis (HLS) to convert them into HDL.
+
 ## Citation
 
 If you think this work is useful in your research, please consider cite our paper:
